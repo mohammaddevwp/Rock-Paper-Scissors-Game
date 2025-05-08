@@ -20,7 +20,7 @@
 ## ⚙️ تکنولوژی‌های استفاده‌شده
 
 - HTML5
-- CSS3 (Bootstrap 5 یا Tailwind CSS)
+- CSS3 (Tailwind CSS)
 - JavaScript (Vanilla)
 - PHP
 - MySQL (برای ذخیره نتایج و آمار)
